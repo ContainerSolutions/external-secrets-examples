@@ -1,2 +1,2 @@
 # external-secrets-examples
-Repository use case examples for external secrets operator
+Examples for external secrets operator
